@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|
 | **Sunday** | Oct 5 | | | | | |
 | **Monday** | Oct 6 | | | | |Time spent updating linkedin ✔️ , crafting networking outreach ✔️, target companies list ✔️ - (7 hrs), 5 applications sent + 8 shortlisted ✔️ (3 hrs), upload project code (to be done)|
-| **Tuesday** | Oct 7 | | | | | |
+| **Tuesday** | Oct 7 | | | | | send 8 applications (1 hr), Backpropagation (upload code - 1 hr), dsa ( 1 hr), error analysis (3 hrs), Model Optimization(inference) (4 hrs), upload project code (30 mins)  |
 | **Wednesday**| Oct 8 | | | | | |
 | **Thursday**| Oct 9 | | | | | |
 | **Friday** | Oct 10 | | | | | |
