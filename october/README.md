@@ -19,10 +19,10 @@
 | **Monday** | Oct 13 | CTCI | 3 hrs | Draft Research Paper: Beyond Accuracy: BART-Enhanced Qualitative Error Analysis for Domain-Adapted Text Line Recognition | 5 hrs | Read DeepMind journey blog ✔️ ([Aleksa Gordić Medium](https://gordicaleksa.medium.com/how-i-got-a-job-at-deepmind-as-a-research-engineer-without-a-machine-learning-degree-1a45f2a781de) — strategies, macro/micro cycles, self-driven ML learning) **Def copying his learning style: #1 transparent public artifact sharing  #2 Warp speed on** (4 hrs)|
 | **Tuesday** | Oct 14 | | | | | Injured|
 | **Wednesday** | Oct 15 | | | | |Injured|
-| **Thursday** | Oct 16 |Upload code: triton sparse attn, fused gemm activation |1 hr | | | |
+| **Thursday** | Oct 16 |Upload code: triton sparse attn, fused gemm activation, PyTorch - 60 min Blitz |1 hr + 1.5 hr | | | |
 | **Friday** | Oct 17 | | | | | |
 | **Saturday** | Oct 18 | | | | | |
-| **Total** | **14 hrs** |  | **4 hrs (Coding)** |  | **10 hrs (Algo)** | **4 hrs(NW)**|
+| **Total** | **15.5 hrs** |  | **5.5 hrs (Coding)** |  | **10 hrs (Algo)** | **4 hrs(NW)**|
 
 
 
