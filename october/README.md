@@ -24,6 +24,18 @@
 | **Saturday** | Oct 18 | | | | | |
 | **Total** | **15.5 hrs** |  | **5.5 hrs (Coding)** |  | **10 hrs (Algo)** | **4 hrs(NW)**|
 
+# Week 3
 
+- Mainly spent on presenting the sparse attention paper to advisor
+- **Big Win 🥳🎉:** Algo Approved! Presentation skills - significantly better than spring semester!
+- End to End Knowledge of the system - 🎯
 
- 
+# Week 4
+
+- Devised Algo -> Code
+- Updated CUDA Kernels to integrate updated functions
+- Fixed $\rightarrow$ resolved compilation and linking issues
+   - including C++ ABI mismatch,
+   - Host GCC compiler version conflicts,
+   - and the persistent **`cannot find -lcuda` linker path error** to fully build the custom CUDA extension.
+   
