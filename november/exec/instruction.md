@@ -2,7 +2,7 @@
 ## Iteration 1
 | Instruction | Category | Difficulty Level | Time Taken | Bottleneck |
 |--------------|-----------|------------------|-------------|-------------|
-|              |           |                  |             |             |
+|   11 Tree Coding Problems           |   Repetitive        |    Easy              |             |    Discipline to Follow Through, Taking too much time     (Goal: Finish in 45 mins + 1 hr)    |
 |              |           |                  |             |             |
 |              |           |                  |             |             |
 |              |           |                  |             |             |
