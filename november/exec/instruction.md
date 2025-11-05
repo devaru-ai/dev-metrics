@@ -5,7 +5,7 @@
 | Instruction                 | Category     | Difficulty Level | Time Taken | Bottleneck | Reason for Bottleneck |
 |------------------------------|--------------|------------------|-------------|-------------|-----------------------|
 | 11 Tree Coding Problems      | Repetitive   | Easy             |     2 + est. 3        | Discipline to Follow Through, Taking too much time (Goal: Finish in 45 mins + 1 hr) | Estimated time was unreasonable. To study thoroughly, understanding 10 problems took approx 2 hrs, Coding variations est. 3 hrs. Discipline was not an issue.               |
-|Implement a PyTorch training loop from scratch                              | Repetitive             |        Easy          |   2 hrs          |  Don't see any.           |     Due to expertise in ML Algos and Training experiments.                  |
+|Implement a PyTorch training loop from scratch                              | Repetitive             |        Easy          |   4 hrs          |  Don't see any.           |     Due to expertise in ML Algos and Training experiments.                  |
 |                              |              |                  |             |             |                       |
 |                              |              |                  |             |             |                       |
 
