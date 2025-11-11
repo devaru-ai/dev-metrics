@@ -1,14 +1,13 @@
-# Improve Metrics on
-
-## Tasks Attempted 
-|   | Tue (Nov 4) | Wed (Nov 5) | Thu (Nov 6) | Fri (Nov 7) | Sat (Nov 8) |
-|---|--------------|--------------|--------------|--------------|--------------|
-| Tasks Attempted  |              |              |              |              |              |
-
-
-## No. of Iterations 
-### Iteration 0:
+# Improve Metrics on No. of Iterations 
+### Iteration 1:
 - Goal is to improve visibility
 - Finish testing on Llama-3.1
 - Main improvement over Oct: Resolved issues that interrupted processes and caused continuous downtime, Better supported to face such issues at scale in the future.
 
+### Iteration 1 Results:
+- Identified strong on ML, coding
+- Significantly weak at networking
+- Got to the root causes, restructured it
+- Expanded the team, got guidance of an extremely talented professional who's great at networking.
+- I was able to reuse the templates, and many methods, rather than developing from scratch, enabled me to get faster improvement, so I could ensure visiblity for research without compromising on time trade off.
+- For iter 2, I'd advice: Execution eats Strategy for breakfast, so much more focus on execution over strategy. 
