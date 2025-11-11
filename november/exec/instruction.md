@@ -10,6 +10,13 @@
 |   Implement algo on sparse attention research                           |    Known and New          |      Difficult and great for learning.            |    Deferred to get max results. Visiblity of research is critical. Paralleling with better communications and research would give max rewards, esp cuz networking skills are significantly bad. It needs immediate attention.         |   Too much fun.          | Have difficulty making it healthy. Taking breaks is difficult to follow.                     |
 |   Networking skills - Master it!                        |    Unknown and New          |      Anxiety inducing           |   6 days (Part) 4 days (FT)         |   Unchartered territory        | Too many bugs in system, needed fixing - anxiety, root causes of suboptimal communication, better mentors and peers to support growth.                     |
 
+## Iteration 1 Results
+- Fixed troubles in networking. From 10-20% -> 70% good.
+- Key: Finding talented people that are already best at it, reusing 90% of their resources, and learning from their mindset and execution
+- Taking my first principles thinking and solving my issues in networking and understanding why people fail and how people succeed
+- Transfering research skills to improving networking skills from 70% good -> 90-95% good, implementing ideas from my analysis
+- Add on: Borrowing interview prep templates from talented professionals rather than create from scratch -> saves time, quality methods, tested and proven.
+- Key Learning: Don't try to grow alone, Get Help, when required. Being good at AI Research doesn't mean I cannot be a beginner at networking. (But it means, learning could be fast)
 ### Definition
 | Category | Definition |
 |-----------|-------------|
