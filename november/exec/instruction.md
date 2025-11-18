@@ -17,9 +17,27 @@
 - Transfering research skills to improving networking skills from 70% good -> 90-95% good, implementing ideas from my analysis
 - Add on: Borrowing interview prep templates from talented professionals rather than create from scratch -> saves time, quality methods, tested and proven.
 - Key Learning: Don't try to grow alone, Get Help, when required. Being good at AI Research doesn't mean I cannot be a beginner at networking. (But it means, learning could be fast)
+
+## Iteration 2 
+
+| Instruction | Category | Difficulty Level | Time Taken | Bottleneck | Reason for Bottleneck |
+|-------------|----------|------------------|------------|------------|----------------------|
+| Execute Networking: Post the vLLM work            | New unchartered territory         |    Extremely High, High Risk, 99% chances of failure             |  4 days (post) + 3 days (analysis + iteration 3)          |     Highest chances of failure       |  Doing it first time, it was all strategizing until this point, so a lot of confidence was based on hypothesis, no guarantee the real world results would match my analysis.                    |
+
+## Iteration 2 Results
+-  Real world results exceeded my expectations, orders of magnitude difference in reach, huge positive response from the industry
+-  Work validated by senior engineers from Amazon, Microsoft, Google, Nvidia, Meta Chief Architects and Investors 
+-  Key Learning: I largely underestimated my talent in strategising and building; ability to understand market, solve relevant problems and networking abilities.
+
 ### Definition
 | Category | Definition |
 |-----------|-------------|
 | New uncharted territory | Tasks that involve unfamiliar concepts, requiring exploration and experimentation. |
 | Repetitive but difficult | Tasks that occur frequently yet still demand significant focus, skill, or problem-solving. |
 | Repetitive but easy | Tasks that are routine, predictable, and can be completed with minimal cognitive effort. |
+
+
+
+
+
+
