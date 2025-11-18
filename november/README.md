@@ -12,11 +12,17 @@
 - I was able to reuse the templates, and many methods, rather than developing from scratch, enabled me to get faster improvement, so I could ensure visiblity for research without compromising on time trade off.
 - For iter 2, I'd advice: Execution eats Strategy for breakfast, so much more focus on execution over strategy.
 
-  ### Iteration 2:
-  - Improve visibility
+### Iteration 2:
+- Improve visibility
  
-  ### Iteration 2 Results:
-  - Improved visibility exponentially
-  - Validated the quality of work by senior engineers from Big Tech
-  - Excellent presentation and Networking Skills
+### Iteration 2 Results:
+- Improved visibility exponentially
+- Validated the quality of work by senior engineers from Big Tech
+- Excellent presentation and Networking Skills
+
+### Iteration 3:
+- Get an interview process started in at least 3 companies
+- DM or Email at least 20 people
+- Progress on research
+- Progress on coding 
 
