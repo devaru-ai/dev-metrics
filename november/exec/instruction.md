@@ -29,6 +29,8 @@
 -  Work validated by senior engineers from Amazon, Microsoft, Google, Nvidia, Meta Chief Architects and Investors 
 -  Key Learning: I largely underestimated my talent in strategising and building; ability to understand market, solve relevant problems and networking abilities.
 
+![Iteration e3x](iteration-e3x.png)
+### The goal of Iteration $$e^{3x}$$ is to largely increase the learning rate and see if I can pull it off
 # Iteration $$e^{3x}$$
 
 | Instruction | Category | Difficulty Level | Time Taken | Bottleneck | Reason for Bottleneck |
