@@ -19,8 +19,13 @@
 - Improved visibility exponentially
 - Validated the quality of work by senior engineers from Big Tech
 - Excellent presentation and Networking Skills
+  
+![Iteration e3x](exec/iteration-e3x.png)
+# Aiming for $$e^{3x}$$ growth, cuz Win Big
+### If you fail, still you would've gone further than you would've with incremental growth
+### If you win, you can accelerate further and maximize returns and it ensures you're not blinded by local maxima
 
-### Iteration 3:
+### Iteration $$e^{3x}$$: 
 - Get an interview process started in at least 3 companies
 - DM or Email at least 20 people
 - Progress on research
