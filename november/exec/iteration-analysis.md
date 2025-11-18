@@ -29,3 +29,14 @@ My hypotheses were largely based on what I observed as results from conventional
 - When things get hard, it's an opportunity to be more creative and even more brilliant.
 - Be Humble. Listen. But, Have Conviction.
 - Most importantly, Check if your beliefs are true. Wrong hypotheses like these lead to lost opportunities, and lost productivity. Unfortunately, Einstein didn't discover how to reverse time.
+
+  # Updates for Iteration 3
+
+- Be more confident and expect better results.
+- Double down on high value research and projects.
+- Increase visibility.
+- Don't worry about whether you'll get an opportunity. Worry about how to seize the opportunity.
+- Build great technology. Reach out to people. Sometimes, it's that simple. The world unnecessarily complicates things.
+- Do not try to do things alone, get help if needed, learn from others, but use your brain.
+- Keep it simple.
+- Happy Coding!
