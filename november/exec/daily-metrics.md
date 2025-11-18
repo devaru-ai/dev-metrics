@@ -5,11 +5,11 @@
 | Nov 11 |                |           |                  |
 | Nov 12 |                |           |                  |
 | Nov 13 |                |           |                  |
-| Nov 14 |                |           |                  |
-| Nov 15 |                |           |                  |
+| Nov 14 | Post               |Post           |                  |
+| Nov 15 |Exponetial Results                | Exponetial Results                |                  |
 | Nov 16 |                |           |                  |
-| Nov 17 |                |           |                  |
-| Nov 18 |                |           |                  |
+| Nov 17 |Surprised and Processed on why it worked                | Devised updated strategy for higher quality network, cuz value was higher than estimated, hence double down on further improving visibility.           |                  |
+| Nov 18 |Sustainable strategy on improving on all dimensions                |           |                  |
 | Nov 19 |                |           |                  |
 | Nov 20 |                |           |                  |
 | Nov 21 |                |           |                  |
