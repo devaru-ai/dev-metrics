@@ -29,6 +29,19 @@
 -  Work validated by senior engineers from Amazon, Microsoft, Google, Nvidia, Meta Chief Architects and Investors 
 -  Key Learning: I largely underestimated my talent in strategising and building; ability to understand market, solve relevant problems and networking abilities.
 
+# Iteration $$e^{3x}$$
+
+| Instruction | Category | Difficulty Level | Time Taken | Bottleneck | Reason for Bottleneck |
+|-------------|----------|------------------|------------|------------|----------------------|
+| Results on Llama 3.1 | Repetitive |  Slightly Difficult |  5 hrs          |            |                      |
+| Trees  - 10, Graphs - 10  | Repetitive  |  Easy |  5 hrs        |            |                      |
+|  Heaps - 8, Stacks - 8  | Repetitive  |  Easy  |   5 hrs         |            |                      |
+| Emails to 5 teams, 5 people |  New uncharted territory|  Terrifying | 2 + 3 hrs |            |                      |
+| Move the needle on job search, Apply more and connect more | New uncharted territory |  Exciting and Terrifying | 10 hrs           |            |                      |
+| Find 5 people whose work genuinely excites you and connect with them | New uncharted territory |  All prepared and Exciting |            |            |                      |
+| Explain your work the best, Always be ready to explain technical work to different stakeholders  | Repetitive, Improving  | Exciting to dive in to communication cuz it helps me understand concepts well and enables me to think about how it can be used |            |            |                      |
+
+
 ### Definition
 | Category | Definition |
 |-----------|-------------|
