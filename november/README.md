@@ -10,4 +10,13 @@
 - Got to the root causes, restructured it
 - Expanded the team, got guidance of an extremely talented professional who's great at networking.
 - I was able to reuse the templates, and many methods, rather than developing from scratch, enabled me to get faster improvement, so I could ensure visiblity for research without compromising on time trade off.
-- For iter 2, I'd advice: Execution eats Strategy for breakfast, so much more focus on execution over strategy. 
+- For iter 2, I'd advice: Execution eats Strategy for breakfast, so much more focus on execution over strategy.
+
+  ### Iteration 2:
+  - Improve visibility
+ 
+  ### Iteration 2 Results:
+  - Improved visibility exponentially
+  - Validated the quality of work by senior engineers from Big Tech
+  - Excellent presentation and Networking Skills
+
