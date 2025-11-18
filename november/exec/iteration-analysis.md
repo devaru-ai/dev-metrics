@@ -30,7 +30,7 @@ My hypotheses were largely based on what I observed as results from conventional
 - Be Humble. Listen. But, Have Conviction.
 - Most importantly, Check if your beliefs are true. Wrong hypotheses like these lead to lost opportunities, and lost productivity. Unfortunately, Einstein didn't discover how to reverse time.
 
-  # Updates for Iteration 3
+# Updates for Iteration 3
 
 - Be more confident and expect better results.
 - Double down on high value research and projects.
